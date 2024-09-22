@@ -20,7 +20,7 @@ def calculator():
             print("Already? Exiting the calculator. I guess you're on your way to hiring me now...")
             break
 
-        # Initializing number1 e number2
+        # Initializing number1 and number2
         number1 = None
         number2 = None
 
